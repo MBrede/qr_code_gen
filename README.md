@@ -2,6 +2,8 @@
 
 A feature-rich R Shiny application for generating highly customizable, vector-perfect QR codes. 
 
+You can find the running app [here](https://mbrede-fh-kiel.shinyapps.io/qr_code_gen/).
+
 **⚠️ Vibecoding Warning:** This application was entirely "vibecoded" into existence through iterative LLM prompting. It relies on custom grid graphic vector math achieved via trial and error. While highly functional, do not expect heavily documented, strictly typed, or test-driven code.
 
 ## Features
