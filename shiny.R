@@ -21,7 +21,7 @@ showtext_auto()
 available_fonts <- c("System Default" = "sans")
 
 ui <- page_fillable(
-  title = "QR Code Generator Pro",
+  title = "QR Code Generator",
   theme = bs_theme(preset = "bootstrap"),
   
   tags$head(
